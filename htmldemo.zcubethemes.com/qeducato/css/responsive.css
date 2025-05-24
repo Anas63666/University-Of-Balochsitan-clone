@@ -32,7 +32,7 @@
         background-position: 0 -100px;
     }
     .logo {
-        width: 100%;
+        width: 40%;
     }
     .s-about-img img {
         margin: 0;
@@ -339,7 +339,7 @@
         width: 200px;
     }
     .logo {
-        width: 100%;
+        width:40%;
     }
     .s-about-img img {
         margin-top: auto;
@@ -1662,7 +1662,7 @@
         width: 94%;
     }
     .logo img {
-        width: 185px;
+        width: 165px;
     }
     .counter-area .single-counter {
         border-right: none;
