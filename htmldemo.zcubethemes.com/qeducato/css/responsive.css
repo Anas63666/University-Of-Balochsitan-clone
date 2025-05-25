@@ -204,6 +204,8 @@
     .caption-text h5 {
         margin-bottom: 5px !important;
     }
+    
+    
 }
 
 /* Normal desktop :992px. */
@@ -658,6 +660,9 @@
     }
     .step-img img {
         margin-top: 0;
+    }
+     .logo {
+        width: 40%;
     }
 }
 
@@ -1169,7 +1174,7 @@
         height: auto;
     }
     .logo img {
-        width: 185px;
+        width: 90px;
     }
     .testimonial-active .slick-arrow,
     .home-blog-active .slick-arrow,
@@ -1662,7 +1667,7 @@
         width: 94%;
     }
     .logo img {
-        width: 165px;
+        width: 90px;
     }
     .counter-area .single-counter {
         border-right: none;
