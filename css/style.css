@@ -934,13 +934,12 @@ label {
 }
 
 .second-header-btn .btn {
-font-size: 16px;
-color: #fff;
-height: 70px;
-width: 192.609px;
-padding: 25px 30px;
-position: relative;
- border-radius: 0;
+    background: #ff7350;
+    font-size: 16px;
+    color: #fff;
+    padding: 25px 30px;
+    position: relative;
+    border-radius: 0;
 }
 
 .second-header-btn .btn:hover {

@@ -32,7 +32,7 @@
         background-position: 0 -100px;
     }
     .logo {
-        width: 40%;
+        width: 100%;
     }
     .s-about-img img {
         margin: 0;
@@ -339,7 +339,7 @@
         width: 200px;
     }
     .logo {
-        width: 40%;
+        width: 100%;
     }
     .s-about-img img {
         margin-top: auto;
@@ -874,7 +874,7 @@
         height: auto;
         margin-top: 0;
         line-height: inherit;
-        width: ;
+        width: 25%;
     }
     .main-menu .has-sub>ul {
         position: relative;
@@ -1169,7 +1169,7 @@
         height: auto;
     }
     .logo img {
-        width: 90px;
+        width: 185px;
     }
     .testimonial-active .slick-arrow,
     .home-blog-active .slick-arrow,
@@ -1662,7 +1662,7 @@
         width: 94%;
     }
     .logo img {
-        width: 90px;
+        width: 185px;
     }
     .counter-area .single-counter {
         border-right: none;

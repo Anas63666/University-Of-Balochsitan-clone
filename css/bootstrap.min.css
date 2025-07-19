@@ -1817,7 +1817,6 @@ progress {
     caption-side: top
 }
 
-
 .table-sm>:not(caption)>*>* {
     padding: .25rem .25rem
 }
